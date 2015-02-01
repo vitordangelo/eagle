@@ -1,0 +1,28 @@
+[Eagle]
+Version="05 07 00"
+Platform="Windows"
+Serial="7FBD74D02F-LSR-WLM-NCP"
+Globals="Globals"
+Desktop="Desktop"
+
+[Globals]
+AutoSaveProject=1
+UsedLibrary="J:/Downloads/Libraryes Site/tda729x.lbr"
+UsedLibrary="J:/Downloads/Libraryes Site/tda1562q.lbr"
+UsedLibrary="J:/Downloads/Libraryes Site/tda7386.lbr"
+UsedLibrary="J:/Downloads/Libraryes Site/tda7496l.lbr"
+UsedLibrary="J:/Downloads/Libraryes Site/tda8137.lbr"
+UsedLibrary="J:/Downloads/Libraryes Site/tda8560q.lbr"
+UsedLibrary="J:/Downloads/Libraryes Site/tda8571j.lbr"
+UsedLibrary="J:/Downloads/Libraryes Site/tda8708a.lbr"
+UsedLibrary="C:/Users/Vitor/Desktop/TDA2030.lbr"
+
+[Win_1]
+Type="Control Panel"
+Loc="540 266 1139 665"
+State=1
+Number=0
+
+[Desktop]
+Screen="1280 800"
+Window="Win_1"

@@ -1,0 +1,31 @@
+Partlist
+
+Exported from Placa de Interface.brd at 04/10/2012 18:42:52
+
+EAGLE Version 6.2.0 Copyright (c) 1988-2012 CadSoft
+
+Assembly variant: 
+
+Part     Value          Package   Library        Position (inch)       Orientation
+
+D1       BZX84CSMD      TO236     diode          (0.3 1.6)             R180
+D2       BZX84CSMD      TO236     diode          (0.3 1.8)             R180
+D3       BZX84CSMD      TO236     diode          (1 2.25)              R180
+D4       BZX84CSMD      TO236     diode          (0.6 2.2)             R270
+IC1      74ACT02FK      LCC20     74xx-eu        (1.2 1.15)            R0
+IC2      74ACT02FK      LCC20     74xx-eu        (1.9 1.15)            R0
+Q1       BCF29SMD       SOT23-BEC transistor-npn (0.35 1.25)           R0
+Q2       BCF29SMD       SOT23-BEC transistor-npn (2.85 1.15)           R0
+Q3       BCF29SMD       SOT23-BEC transistor-npn (2.5 1.05)            R270
+Q4       BCF29SMD       SOT23-BEC transistor-npn (0.65 1.25)           R270
+R1       10k            M1206     rcl            (0.35 1)              R180
+R2       1k             M1206     rcl            (0.65 1)              R180
+R3       10k            M1206     rcl            (1.35 1.55)           R90
+R4       1k             M1206     rcl            (2.85 0.9)            R180
+R5       10k            M1206     rcl            (1.9 2.25)            R0
+R6       1k             M1206     rcl            (2.55 2.25)           R180
+R7       10k            M1206     rcl            (2 1.6)               R90
+R8       1k             M1206     rcl            (0.65 1.5)            R180
+SL1                     04P       con-amp-quick  (2.95 2.15)           R270
+SL2                     04P       con-amp-quick  (0.3 2.15)            R90
+SV1                     L16P      con-amp-mt     (1.6 0.3)             R180
